@@ -30,7 +30,7 @@ AI 도구는 버튼 이름과 메뉴 위치가 자주 바뀝니다. 책의 본�
 
 ## 예제 파일 내려받기
 
-각 장의 실습을 마쳤을 때의 폴더입니다. 실습 중에 막히면 내 폴더와 비교해 보세요. **15장만은 실습을 시작할 때의 파일**(`chapter15-start`)도 따로 있습니다.
+각 장의 실습을 마쳤을 때의 폴더입니다. 실습 중에 막히면 내 폴더와 비교해 보세요. **15장과 16장은 실습을 시작할 때의 파일**(`chapter15-start`, `chapter16-sheets`)도 따로 있습니다.
 
 파일 이름을 누른 뒤 오른쪽 위의 내려받기 버튼(↓, Download raw file)을 누르면 됩니다. 받은 zip 파일은 오른쪽 클릭 → '압축 풀기'로 풉니다.
 
@@ -47,6 +47,7 @@ AI 도구는 버튼 이름과 메뉴 위치가 자주 바뀝니다. 책의 본�
 | 14 | [chapter14.zip](examples/chapter14.zip) | 등산 기록장 (다른 모델로 검토한 뒤) |
 | 15 | [chapter15-start.zip](examples/chapter15-start.zip) | **실습 시작 파일 10개** (가짜 광고 보고서와 잡다한 파일) |
 | 15 | [chapter15.zip](examples/chapter15.zip) | 정리된 폴더 + 주간 보고서 자동 생성 |
+| 16 | [광고_일별_기록.csv](examples/chapter16-sheets/광고_일별_기록.csv), [러닝_모임_기록.csv](examples/chapter16-sheets/러닝_모임_기록.csv) | **실습 시작 파일**: 구글 드라이브에 올려 시트로 바꿀 가짜 자료 2개 (16.1의 따라 하기) |
 | 16 | [chapter16.zip](examples/chapter16.zip) | 내 컴퓨터에서 쓰는 광고 대시보드·예산 계산기 |
 | 17 | [chapter17.zip](examples/chapter17.zip) | 등산 유형 심리테스트 |
 | 18 | [chapter18.zip](examples/chapter18.zip) | 브라우저 게임 '정상까지 달려라' |
